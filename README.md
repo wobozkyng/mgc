@@ -4,6 +4,8 @@
 
 # MGC - Minigame Collection
 
+Read the docs: **[Documentation](https://boii.dev)**
+
 The minigame goat is back.  
 
 The original pack? Iconic.
